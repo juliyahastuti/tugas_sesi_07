@@ -1,0 +1,13 @@
+{
+    "name": "juliyah-astuti/tugas-sesi-07",
+    "description": "Deskripsi Proyek Anda",
+    "require": {
+      "php": "^7.4"
+    },
+    "autoload": {
+      "psr-4": {
+        "YourNamespace\\": "src/"
+      }
+    }
+  }
+  
