@@ -2,7 +2,7 @@
     "name": "juliyah-astuti/tugas-sesi-07",
     "description": "Deskripsi Proyek Anda",
     "require": {
-      "php": "^7.4"
+      "php": "^8.0"
     },
     "autoload": {
       "psr-4": {
